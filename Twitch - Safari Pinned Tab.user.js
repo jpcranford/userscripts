@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         Safari Pinned Tab: Twitch
-// @namespace    https://gist.github.com/jpcranford
-// @version      1.0
+// @version      1.1
 // @description  Adds support for special pinned tab and Touch Bar bookmark buttons in Safari on macOS.
 // @author       J.P. Cranford
 // @include      http*://www.twitch.*
