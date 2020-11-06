@@ -2,7 +2,7 @@
 // @name         Safari Pinned Tab: Twitch
 // @version      1.3
 // @description  Adds support for Safari's Pinned Tab and Touch Bar button to Twitch.
-// @author       jpcranford
+// @author       J.P. Cranford
 // @include      http*://www.twitch.*
 // @grant        none
 // ==/UserScript==
