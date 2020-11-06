@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Safari Pinned Tab: ChurchOfJesusChrist.org
 // @author       J.P. Cranford
-// @version      0.11
+// @version      0.12
 // @description  Adds support for Safari's Pinned Tab and Touch Bar button to the Church's website.
-// @match        *://*.churchofjesuschrist.*
+// @match        *://*.churchofjesuschrist.org*
 // @supportURL   https://github.com/jpcranford/userscripts/issues
 // @run-at document-start
 // ==/UserScript==
