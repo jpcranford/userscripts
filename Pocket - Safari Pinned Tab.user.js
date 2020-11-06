@@ -5,6 +5,7 @@
 // @author       J.P. Cranford
 // @match        *://*.getpocket.com*
 // @supportURL   https://github.com/jpcranford/userscripts/issues
+// @updateURL    https://raw.githubusercontent.com/jpcranford/userscripts/main/Pocket%20-%20Safari%20Pinned%20Tab.user.js
 // ==/UserScript==
 
 window.addEventListener("load", function() {
