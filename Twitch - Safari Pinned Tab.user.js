@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Safari Pinned Tab: Twitch
 // @author       J.P. Cranford
-// @version      1.4
+// @version      1.5
 // @description  Adds support for Safari's Pinned Tab and Touch Bar button to Twitch.
-// @match        *://*.twitch.tv*
+// @match        *://www.twitch.tv/*
 // @supportURL   https://github.com/jpcranford/userscripts/issues
 // @run-at document-start
 // ==/UserScript==
