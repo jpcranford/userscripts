@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         Apple Touch Icon: Pocket
-// @version      0.5
-// @description  Adds an Apple Touch Icon for all pages on Pocket, using their own hosted icon.
 // @author       J.P. Cranford
-// @include      http*://app.getpocket.*
+// @version      1.0
+// @description  Adds an Apple Touch Icon for all pages on Pocket, using their own hosted icon.
+// @match        *://*.getpocket.com*
+// @supportURL   https://github.com/jpcranford/userscripts/issues
+// @run-at document-start
 // ==/UserScript==
 
 window.addEventListener("load", function() {
