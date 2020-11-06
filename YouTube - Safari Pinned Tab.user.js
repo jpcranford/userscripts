@@ -2,7 +2,7 @@
 // @name         Safari Pinned Tab: YouTube
 // @version      1.0
 // @description  Adds support for Safari's Pinned Tab and Touch Bar button to YouTube.
-// @author       J.P. Cranford
+// @author       jpcranford
 // @include      http*://www.youtube.*
 // @grant        none
 // ==/UserScript==
