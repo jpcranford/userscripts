@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Safari Pinned Tab: Pocket
-// @version      1.3
+// @version      1.4
 // @description  Adds support for Safari's Pinned Tab and Touch Bar button to Pocket.
 // @author       J.P. Cranford
-// @include      https://app.getpocket.com*
+// @match        *://*.getpocket.com*
+// @supportURL   https://github.com/jpcranford/userscripts/issues
 // ==/UserScript==
 
 window.addEventListener("load", function() {
