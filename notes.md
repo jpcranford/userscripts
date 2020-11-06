@@ -1,0 +1,7 @@
+# Notes
+Website, Branding page, Hex Color, `href` value
+
+Twitch, https://brand.twitch.tv/brand/, #9146FF, `data:image/svg+xml;base64,PHN2ZyBpZD0iYjI4NTZmZmYtZmU3Mi00NWYwLTgxMzgtM2E2MzVkOTU3MjFiIiBkYXRhLW5hbWU9IkxheWVyIDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNNCwwLDEuMTQsMi44NlYxMy4xNEg0LjU3VjE2bDIuODYtMi44Nkg5LjcxTDE0Ljg2LDhWMFptOS43Miw3LjQzTDExLjQzLDkuNzFIOS4xNGwtMiwydi0ySDQuNTdWMS4xNGg5LjE1Wk0xMiwzLjE0SDEwLjg2VjYuNTdIMTJabS0zLjE0LDBINy43MVY2LjU3SDguODZaIi8+PC9zdmc+`
+
+
+This one works: [Base64 Encoder](https://base64.guru/converter/encode/image/svg)
