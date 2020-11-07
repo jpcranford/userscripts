@@ -13,7 +13,7 @@ window.addEventListener("load", function() {
     var icon = document.createElement('link');
 
     icon.setAttribute('rel', 'mask-icon');
-    icon.setAttribute('href', 'https://gist.githubusercontent.com/jpcranford/3248724523eb9290a96175fae33268f6/raw/62d41c5a2c4743f216666541b468ec89bccc11fb/churchofjesuschrist.svg');
+    icon.setAttribute('href', 'https://gist.githubusercontent.com/jpcranford/3248724523eb9290a96175fae33268f6/raw/fc311f4eb8552ff981b0d9d1d72bcfe426c0726e/churchofjesuschrist_white.svg');
     icon.setAttribute('color', '#006184');
 
     head.appendChild(icon);
