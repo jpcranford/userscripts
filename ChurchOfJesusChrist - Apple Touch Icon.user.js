@@ -29,4 +29,6 @@ window.addEventListener("load", function() {
 
     head.appendChild(icon);
 });
+
+// TODO: Move file hosting to Dropbox for privacy and to keep logos under "private use only"
 // FIXME: The favicon for the site bookmark isn't showing in the sidebar. Write a user script to fix this?
