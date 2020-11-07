@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Apple Touch Icon: ChurchOfJesusChrist.org
 // @author       J.P. Cranford
-// @version      1.0
+// @version      1.1
 // @description  Adds an Apple Touch Icon for all pages on the Church's main site, using images from their Facebook page.
 // @match        *://*.churchofjesuschrist.org/*
 // @supportURL   https://github.com/jpcranford/userscripts/issues
@@ -14,7 +14,7 @@ window.addEventListener("load", function() {
 
     icon.setAttribute('rel', 'apple-touch-icon');
     icon.setAttribute('sizes', '120x120');
-    icon.setAttribute('href', 'https://raw.githubusercontent.com/jpcranford/userscripts/main/sites/apple-touch-icon-120x120.png');
+    icon.setAttribute('href', 'https://gist.githubusercontent.com/jpcranford/3248724523eb9290a96175fae33268f6/raw/3cff5465837b1c4a1862520efe3b6e0ffce1d820/churchofjesuschrist-appletouchicon-120.png');
 
     head.appendChild(icon);
 });
@@ -25,10 +25,7 @@ window.addEventListener("load", function() {
 
     icon.setAttribute('rel', 'apple-touch-icon');
     icon.setAttribute('sizes', '180x180');
-    icon.setAttribute('href', 'https://raw.githubusercontent.com/jpcranford/userscripts/main/sites/apple-touch-icon-180x180.png');
+    icon.setAttribute('href', 'https://gist.githubusercontent.com/jpcranford/3248724523eb9290a96175fae33268f6/raw/3cff5465837b1c4a1862520efe3b6e0ffce1d820/churchofjesuschrist-appletouchicon-180.png');
 
     head.appendChild(icon);
 });
-
-// TODO: Move file hosting to Dropbox for privacy and to keep logos under "private use only"
-// FIXME: The favicon for the site bookmark isn't showing in the sidebar. Write a user script to fix this?

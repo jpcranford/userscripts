@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Safari Pinned Tab: YouTube
 // @author       J.P. Cranford
-// @version      1.2
+// @version      1.3
 // @description  Adds support for Safari's Pinned Tab and Touch Bar button to YouTube.
 // @match        *://*.youtube.com*
 // @supportURL   https://github.com/jpcranford/userscripts/issues
@@ -13,10 +13,8 @@ window.addEventListener("load", function() {
     var icon = document.createElement('link');
 
     icon.setAttribute('rel', 'mask-icon');
-    icon.setAttribute('href', 'https://raw.githubusercontent.com/jpcranford/userscripts/main/sites/WW91VHViZQ.svg');
+    icon.setAttribute('href', 'https://gist.githubusercontent.com/jpcranford/3248724523eb9290a96175fae33268f6/raw/9e49188811bb848d7025cffcbd22d317046683e2/youtube.svg');
     icon.setAttribute('color', '#FF0000');
 
     head.appendChild(icon);
 });
-
-// TODO: Move file hosting to Dropbox for privacy and to keep logos under "private use only"

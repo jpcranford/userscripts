@@ -18,5 +18,3 @@ window.addEventListener("load", function() {
 
     head.appendChild(icon);
 });
-
-// TODO: Move file hosting to Dropbox for privacy and to keep logos under "private use only"
