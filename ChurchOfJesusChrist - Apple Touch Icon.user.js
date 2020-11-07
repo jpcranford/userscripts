@@ -29,3 +29,4 @@ window.addEventListener("load", function() {
 
     head.appendChild(icon);
 });
+// FIXME: The favicon for the site bookmark isn't showing in the sidebar. Write a user script to fix this?
