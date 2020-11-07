@@ -20,11 +20,12 @@ As far as I've seen, no "dark backing" happens when a color is too light in Ligh
 | #9146FF | Twitch       | AA                      | AAA                   | 4.52:1         | No                                 |
 | #007d9f | Blue 25      | —                       | AA                    | 4.43:1         | Yes                                |
 | #E40712 | D&D Beyond   | —                       | AA                    | 4.33:1         | No                                 |
+| #1f74bd | Musescore    | —                       | AA                    | 4.29:1         |                                    |
 | #006bc4 | 5eTools      | —                       | AA                    | 3.9:1          | Yes                                |
 | #006184 | Blue 30      | —                       | AA                    | 3.04:1         | Yes                                |
 | #005581 | Blue 35      | —                       | —                     | 2.61:1         |                                    |
 | #aa0000 | AnyDice      | —                       | —                     | 2.7:1          | Yes                                |
 | #003057 | Blue 40      | —                       | —                     | 1.56:1         |                                    |
-| #0E2E49 | USAA         | —                       | —                     | 1.5:1          |                                    |
+| #0E2E49 | USAA         | —                       | —                     | 1.5:1          | Yes                                |
 | #121212 | D&D Beyond   | —                       | —                     | 1.12:1         |                                    |
 | #000000 | GitHub       | —                       | —                     | 1:1            | Yes                                |
