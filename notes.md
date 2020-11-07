@@ -1,7 +1,7 @@
 # Notes
 Website, Branding page, Hex Color, `href` value
 
-* Twitch, https://brand.twitch.tv/brand/, #9146FF, `data:image/svg+xml;base64,PHN2ZyBpZD0iYjI4NTZmZmYtZmU3Mi00NWYwLTgxMzgtM2E2MzVkOTU3MjFiIiBkYXRhLW5hbWU9IkxheWVyIDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNNCwwLDEuMTQsMi44NlYxMy4xNEg0LjU3VjE2bDIuODYtMi44Nkg5LjcxTDE0Ljg2LDhWMFptOS43Miw3LjQzTDExLjQzLDkuNzFIOS4xNGwtMiwydi0ySDQuNTdWMS4xNGg5LjE1Wk0xMiwzLjE0SDEwLjg2VjYuNTdIMTJabS0zLjE0LDBINy43MVY2LjU3SDguODZaIi8+PC9zdmc+`
+- Twitch, https://brand.twitch.tv/brand/, #9146FF
 
 This one works: [Base64 Encoder](https://base64.guru/converter/encode/image/svg)
 
@@ -11,16 +11,20 @@ It has something to do with the color and the contrast ratio to the background. 
 As far as I've seen, no "dark backing" happens when a color is too light in Light Mode.
 
 #### Against a dark background (#000000)
-| Color   | Used by/Name | Rating,<br>Regular Size | Rating,<br>Large Size | Light backing?                     |
-|---------|--------------|-------------------------|-----------------------|------------------------------------|
-| #01b6d1 | Blue 20      | AAA                     | AAA                   | No (but hard to see in light mode) |
-| #007d9f | Blue 25      | —                       | AA                    | Yes                                |
-| #006184 | Blue 30      | —                       | AA                    |                                    |
-| #005581 | Blue 35      | —                       | —                     |                                    |
-| #003057 | Blue 40      | —                       | —                     |                                    |
-| #cc7b19 | Plex         | AA                      | AAA                   | No                                 |
-| #9146FF | Twitch       | AA                      | AAA                   | No                                 |
-| #FF0000 | YouTube      | AA                      | AAA                   | No                                 |
-| #006bc4 | 5eTools      | —                       | AA                    | Yes                                |
-| #EF4056 | Pocket       | AA                      | AAA                   | No                                 |
-| #000000 | GitHub       | —                       | —                     | Yes                                |
+| Color   | Used by/Name | Rating,<br>Regular Size | Rating,<br>Large Size | Contrast Ratio | Light backing?                     |
+|---------|--------------|-------------------------|-----------------------|----------------|------------------------------------|
+| #01b6d1 | Blue 20      | AAA                     | AAA                   | 8.61:1         | No (but hard to see in light mode) |
+| #cc7b19 | Plex         | AA                      | AAA                   | 6.41:1         | No                                 |
+| #EF4056 | Pocket       | AA                      | AAA                   | 5.53:1         | No                                 |
+| #FF0000 | YouTube      | AA                      | AAA                   | 5.25:1         | No                                 |
+| #9146FF | Twitch       | AA                      | AAA                   | 4.52:1         | No                                 |
+| #007d9f | Blue 25      | —                       | AA                    | 4.43:1         | Yes                                |
+| #E40712 | D&D Beyond   | —                       | AA                    | 4.33:1         | No                                 |
+| #006bc4 | 5eTools      | —                       | AA                    | 3.9:1          | Yes                                |
+| #006184 | Blue 30      | —                       | AA                    | 3.04:1         | Yes                                |
+| #005581 | Blue 35      | —                       | —                     | 2.61:1         |                                    |
+| #aa0000 | AnyDice      | —                       | —                     | 2.7:1          | Yes                                |
+| #003057 | Blue 40      | —                       | —                     | 1.56:1         |                                    |
+| #0E2E49 | USAA         | —                       | —                     | 1.5:1          |                                    |
+| #121212 | D&D Beyond   | —                       | —                     | 1.12:1         |                                    |
+| #000000 | GitHub       | —                       | —                     | 1:1            | Yes                                |
