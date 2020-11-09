@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Safari Pinned Tab: Musescore
 // @author       J.P. Cranford
-// @version      1.0
+// @version      1.0.1
 // @description  Adds support for Safari's Pinned Tab and Touch Bar button to Musescore.
 // @match        *://musescore.com*
 // @match        *://musescore.org/*
@@ -14,7 +14,7 @@ window.addEventListener("load", function() {
     var icon = document.createElement('link');
 
     icon.setAttribute('rel', 'mask-icon');
-    icon.setAttribute('href', 'https://gist.githubusercontent.com/jpcranford/3248724523eb9290a96175fae33268f6/raw/fc311f4eb8552ff981b0d9d1d72bcfe426c0726e/musescore.svg');
+    icon.setAttribute('href', 'https://gist.githubusercontent.com/jpcranford/3248724523eb9290a96175fae33268f6/raw/b90d0877e9c66e6a1a3a3e340205767272d82d2e/musescore.svg');
     icon.setAttribute('color', '#1f74bd');
 
     head.appendChild(icon);
