@@ -37,4 +37,6 @@ As far as I've seen, no "dark backing" happens when a color is too light in Ligh
 
 <!-- TODO: Pinned Tab: TamperMonkey (ugly white lining around favicon) -->
 
-<!-- TODO: Touch Icon: Internet Archive (curves all wrong on current)-->
+<!-- TODO: Pinned Tab: Internet Archive - look through HTML for SVG hosted by them if possible-->
+
+<!-- TODO: Touch Icon: Internet Archive (curves all wrong on current) - Use images hosted by them if possible-->
