@@ -35,4 +35,6 @@ As far as I've seen, no "dark backing" happens when a color is too light in Ligh
 | #121212 | D&D Beyond       | —                       | —                     | 1.12:1         |                                    |
 | #000000 | GitHub           | —                       | —                     | 1:1            | Yes                                |
 
-<!-- TODO: TamperMonkey (ugly white lining around favicon) -->
+<!-- TODO: Pinned Tab: TamperMonkey (ugly white lining around favicon) -->
+
+<!-- TODO: Touch Icon: Internet Archive (curves all wrong on current)-->
