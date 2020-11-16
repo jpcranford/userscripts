@@ -38,12 +38,6 @@ As far as I've seen, no "dark backing" happens when a color is too light in Ligh
 
 <!-- TODO: Pinned Tab: TamperMonkey (ugly white lining around favicon) -->
 
-<!-- TODO: Pinned Tab: Internet Archive - look through HTML for SVG hosted by them if possible-->
-
-<!-- https://archive.org/services/img/truyenaudiocv (jpeg) -->
-
-<!-- TODO: Touch Icon: Internet Archive (curves all wrong on current) - Use images hosted by them if possible-->
-
 ## Pinned Tab Sources
 
 Removed white space on nearly all.
@@ -58,7 +52,7 @@ Removed white space on nearly all.
 | Musescore        |                          |                                       |
 | Pocket           | SeekLogo.com             | \*                                    |
 | Twitch           | official (brand assets)  | \*                                    |
-| USAA             | Wikipedia                | Removed ® to center icon, †           |
+| USAA             | Wikipedia                | Removed ® to center the icon, †       |
 | Youtube          | official (brand assets)  | Reduced design to one color and alpha |
 
 \*Downsized to 512pt.
