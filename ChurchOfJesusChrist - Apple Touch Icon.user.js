@@ -5,6 +5,7 @@
 // @description  Adds an Apple Touch Icon for all pages on the Church's main site, using images from their Facebook page.
 // @match        *://*.churchofjesuschrist.org/*
 // @supportURL   https://github.com/jpcranford/userscripts/issues
+// @homepageURL	 https://github.com/jpcranford/userscripts
 // @run-at document-start
 // ==/UserScript==
 
