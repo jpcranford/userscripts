@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Apple Touch Icon: ChurchOfJesusChrist.org
 // @author       J.P. Cranford
-// @version      1.1
+// @version      1.2
 // @description  Adds an Apple Touch Icon for all pages on the Church's main site, using images from their Facebook page.
 // @match        *://*.churchofjesuschrist.org/*
 // @supportURL   https://github.com/jpcranford/userscripts/issues
